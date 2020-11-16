@@ -6,4 +6,4 @@ def test_add1():
 
 def test_add2():
     assert calculations.add('Hello', 'Du')=='HelloDu';
-    assert calculations.add(10,10)==200;
+    assert calculations.add(10,10)==20000000;
